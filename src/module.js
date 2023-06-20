@@ -1,7 +1,7 @@
-import Toast from './Toast';
-import Tooltip from './Tooltip';
-import Overlay from './Overlay';
-import Modal from './Modal';
+import Toast from './js/Toast';
+import Tooltip from './js/Tooltip';
+import Overlay from './js/Overlay';
+import Modal from './js/Modal';
 
 export default function example() {
     
